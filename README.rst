@@ -1,7 +1,6 @@
-status:complete 
-archived
+Update: This project is now **abandoned**. I have found web interface and/or AI assisted translation are much better at this task
 
-Qui_converter
+# Qui_converter
 
 Motivation:
 
